@@ -6,7 +6,7 @@
 Background
 - Netflix is a global streaming entertainment service provider offering a wide range of on-demand content, including movies, TV shows, documentaries and original productions. Netflix has transformed into a streaming giant in 2007, disrupting the entertainment industry. 
 
-Business Task
+Business Purpose
 - Leverage Netflix's content data to uncover insights into audience preferences in movies and TV shows, enabling the company to refine its content strategy, personalise recommendations, and enhance viewer engagement globally.
 
 Business Questions
