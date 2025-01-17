@@ -1,5 +1,8 @@
 # netflix-exploratory-data-analysis
 
+![image](https://github.com/user-attachments/assets/820108a4-4416-4b1d-8e52-91f49c506511)
+
+
 Background
 - Netflix is a global streaming entertainment service provider offering a wide range of on-demand content, including movies, TV shows, documentaries and original productions. Netflix has transformed into a streaming giant in 2007, disrupting the entertainment industry. 
 
@@ -21,4 +24,4 @@ Tools
 - Python for Data Cleaning, Data Transformation, Data Visualisation, and Data Analysis
 
 Data Set
-- The data set is publicly available on Kaggle.
+- The data set is publicly available on [Kaggle](https://www.kaggle.com/datasets/swatikhedekar/exploratory-data-analysis-on-netflix-data?select=netflix+img.png).
